@@ -1,1 +1,1 @@
-# capcut-pro-tools-enable
+plugins
